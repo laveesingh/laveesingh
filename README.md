@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![10FF Typing Score](http://img.10fastfingers.com/badge/typing-test_1_DF.png "109 WPM")](https://10fastfingers.com/typing-test/english)
+[![10FF Typing Score](https://img.10fastfingers.com/img/badge/typing-test_1_DQ.png "109 WPM")](https://10fastfingers.com/typing-test/english)
