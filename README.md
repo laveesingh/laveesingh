@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![10FF Typing Score](https://img.10fastfingers.com/img/badge/typing-test_1_DQ.png "109 WPM")](https://10fastfingers.com/typing-test/english)
+<img width="1191" height="457" alt="image" src="https://github.com/user-attachments/assets/96d0e481-55e5-4ad9-b108-202721c1c371" />
 
 <a href="https://app.daily.dev/laveesingh"><img src="https://api.daily.dev/devcards/v2/Wacsxm8uKQ4YygsBDbgyC.png?type=wide&r=q6k" width="652" alt="lavee singh's Dev Card"/></a>
